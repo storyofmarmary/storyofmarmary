@@ -1,8 +1,9 @@
 # Портфолио тестировщика 📚
 
 <div align="center">
-
-![MAIN PICTURE] (https://github.com/storyofmarmary/storyofmarmary/blob/main/testFolder/202442620_l_normal_none.jpg)
+<a href="https://qase.io/">
+<img src="https://github.com/storyofmarmary/storyofmarmary/blob/main/testFolder/202442620_l_normal_none.jpg" />
+</a>
 
 </div>
 
