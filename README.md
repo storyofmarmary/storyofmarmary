@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![MAIN PICTURE] (https://drive.google.com/file/d/1_InAwgwymUe9KbIryJhQ6mHPCCFZ1yhb/view)
+![MAIN PICTURE] (https://github.com/storyofmarmary/storyofmarmary/blob/main/testFolder/202442620_l_normal_none.jpg)
 
 </div>
 
