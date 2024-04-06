@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![GIF](https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif)
-  
+![header](https://drive.google.com/file/d/1_InAwgwymUe9KbIryJhQ6mHPCCFZ1yhb/view?usp=drive_link)
+ 
 </div>
 
 Меня зовут Мария. Я начинающий QA Enginner с серьезным бэкграундом в digital-сфере в качестве UX-копирайтера и заказчика IT-продуктов. 
