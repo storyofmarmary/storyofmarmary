@@ -1,6 +1,9 @@
 # Портфолио тестировщика 📚
 
 <div align="center">
+
+![Screenshot of a comment.](https://github.com/storyofmarmary/storyofmarmary/assets/images/)
+
 <img src="https://github.com/storyofmarmary/storyofmarmary/blob/main/testFolder/202442620_l_normal_none.jpg" />
 </div>
 
