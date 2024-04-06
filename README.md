@@ -2,11 +2,12 @@
 
 <div align="center">
 
-![header](https://drive.google.com/file/d/1_InAwgwymUe9KbIryJhQ6mHPCCFZ1yhb/view?usp=drive_link)
- 
+![MAIN PICTURE] (https://drive.google.com/file/d/1_InAwgwymUe9KbIryJhQ6mHPCCFZ1yhb/view)
+
 </div>
 
-Меня зовут Мария. Я начинающий QA Enginner с серьезным бэкграундом в digital-сфере в качестве UX-копирайтера и заказчика IT-продуктов. 
+Меня зовут Мария. 
+Я начинающий QA Enginner с серьезным бэкграундом в digital-сфере в качестве UX-копирайтера и заказчика IT-продуктов. 
 
 ## My CV 
 
