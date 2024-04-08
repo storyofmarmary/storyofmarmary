@@ -17,6 +17,7 @@
   -  [Веб-приложение для учителей Skyeng](https://github.com/storyofmarmary/Portfolio-QA/tree/main)
   -  [Тестирование функционала Видеопрактика мобильного приложения Skyeng]()
   -  [Тестирование поиска Авито](https://github.com/storyofmarmary/Avito-Poisk)
+  -  [Тестирование регистрации и автоизации Musescore]()
   -  [Тестирование корзины МТС](https://docs.google.com/document/d/1SUmhdKdCnpwwMp8Wdn_p9hLvX8LE-AIxV-QGMwv3sXs/edit)
 
 ### Инструменты и технологии :wrench:
