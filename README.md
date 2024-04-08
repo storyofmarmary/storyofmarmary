@@ -15,16 +15,9 @@
 ### Примеры работ 
 - Проекты
   -  [Веб-приложение для учителей Skyeng](https://github.com/storyofmarmary/Portfolio-QA/tree/main)
-  -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Тестирование поиска Авито](https://ссылочку_сюда)
-  -  [Тестирование корзины МТС](https://ссылочку_сюда)
-
-- Коллекция в Postman 
-  -  [Название проекта](https://ссылочку_сюда)
-
-- SQL запросы 
-  -  [Название проектв](https://ссылочку_сюда)
-  
+  -  [Тестирование функционала Видеопрактика мобильного приложения Skyeng]()
+  -  [Тестирование поиска Авито](https://github.com/storyofmarmary/Avito-Poisk)
+  -  [Тестирование корзины МТС](https://docs.google.com/document/d/1SUmhdKdCnpwwMp8Wdn_p9hLvX8LE-AIxV-QGMwv3sXs/edit)
 
 ### Инструменты и технологии :wrench:
 
