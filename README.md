@@ -14,7 +14,7 @@
 
 ### Примеры работ 
 - Проекты
-  -  [Веб-приложение для учителей Skyeng](https://github.com/storyofmarmary/Portfolio-QA/blob/main/Skyeng%20Teacher/description.md)
+  -  [Веб-приложение для учителей Skyeng](https://github.com/storyofmarmary/Portfolio-QA/tree/main)
   -  [Тест-кейсы](https://ссылочку_сюда)
   -  [Тестирование поиска Авито](https://ссылочку_сюда)
   -  [Тестирование корзины МТС](https://ссылочку_сюда)
